@@ -2,3 +2,6 @@ Conocimiento 1: HTML y CSS --> nivel medio
 Conocimiento 2: Java --> nivel básico
 Conocimiento 3: Spring --> nivel básico
 Conocimiento 4: Python --> nivel básico
+Conocimiento 5: Git y GitHub --> nivel medio
+Conocimiento 6: JavaScript --> nivel básico
+Conocimiento 7: Django --> nivel básico
