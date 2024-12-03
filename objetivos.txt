@@ -1,2 +1,3 @@
 Objetivo 1: Ser una buena programadora.
 Objetivo 2: Aprobar el curso con buena nota.
+Objetivo 3: Encontrar trabajo de Fullstack developer
