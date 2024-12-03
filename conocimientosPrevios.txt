@@ -1,1 +1,4 @@
 Conocimiento 1: HTML y CSS --> nivel medio
+Conocimiento 2: Java --> nivel básico
+Conocimiento 3: Spring --> nivel básico
+Conocimiento 4: Python --> nivel básico
